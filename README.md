@@ -7,7 +7,7 @@
 🛠️ **Tecnologias que estou utilizando:**
 `JavaScript` | `TypeScript` | `Java` | `Docker` | `C`
 
-🕹️ **Quando não estou codando:** Me dedico aos **Jogos**!
+🕹️ **Quando não estou codando** Me dedico aos **Jogos**!
 
 🔗 **Conecte-se comigo:**
 [LinkedIn](https://www.linkedin.com/in/juci%C3%AA-junior-avelino-caciano-105152270/)
