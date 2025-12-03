@@ -1,10 +1,13 @@
- ⚡ Hello everyone, I'm Jucie Junior!
-- I am studying Systems Analysis and Development at IFPB in Brazil
+👋 Estudante de Análise e Desenvolvimento de Sistemas no **IFPB - Campus Cajazeiras**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juciejunior&theme=highcontrast&show_icons=true)
+💻 Focado no ecossistema **Back-end** com **Node.js** e em transformar ideias em código robusto e eficiente.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juciejunior&hide_progress=true)
+🚀 Meu objetivo no GitHub é **mostrar meu portfólio** e **aprender novas tecnologias** através de projetos desafiadores.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+🛠️ **Tecnologias que estou utilizando:**
+`JavaScript` | `TypeScript` | `Java` | `Docker` | `C`
 
+🕹️ **Quando não estou codando:** Me dedico aos **Jogos**!
+
+🔗 **Conecte-se comigo:**
+[LinkedIn](https://www.linkedin.com/in/juci%C3%AA-junior-avelino-caciano-105152270/)
