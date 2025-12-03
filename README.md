@@ -1,6 +1,6 @@
 👋 Estudante de Análise e Desenvolvimento de Sistemas no **IFPB - Campus Cajazeiras**.
 
-💻 Focado no ecossistema **Back-end** com **Node.js** e em transformar ideias em código robusto e eficiente.
+💻 Focado no ecossistema **Back-end** com **Node.js** e em transformar ideias em realizações.
 
 🚀 Meu objetivo no GitHub é **mostrar meu portfólio** e **aprender novas tecnologias** através de projetos desafiadores.
 
