@@ -5,9 +5,9 @@
 🚀 Meu objetivo no GitHub é **mostrar meu portfólio** e **aprender novas tecnologias** através de projetos desafiadores.
 
 🛠️ **Tecnologias que estou utilizando:**
-`JavaScript` | `TypeScript` | `Java` | `Docker` | `C`
+`JavaScript` | `TypeScript` | `Java` | `Docker` | `C` | `React` | `React Native`
 
-🕹️ **Quando não estou codando** Me dedico aos **Jogos**!
+🕹️ **Quando não estou codando** me dedico aos **Jogos**!
 
 🔗 **Conecte-se comigo:**
 [LinkedIn](https://www.linkedin.com/in/juci%C3%AA-junior-avelino-caciano-105152270/)
